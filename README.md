@@ -47,7 +47,7 @@
             
             Know coming to EDUCATION ---
 
-            <table> <caption>CLASS 10</caption>
+            <table border="3" > <caption>CLASS 10</caption>
                 <thead>
                 <tr>
                     <th>SUBJECT</th>
@@ -84,7 +84,7 @@
 
            <section>
 
-            <table>
+            <table border="3">
                 <caption>
                     CLASS 12
                 </caption>
@@ -129,7 +129,7 @@
             <br>
             <br>
 
-            <a href="/achievments.html">Achievments</a>
+            <a href="/achievments.html" target="_main">Achievments</a>
         </section>
             <br>
             <br>
@@ -145,7 +145,7 @@
             <br>
             <br>
             <br>
-            <a href="https://wallpaperaccess.com/full/7171510.jpg"target="_main">My favourite</a>
+            <a href="https://wallpaperaccess.com/full/7171510.jpg" height ="100" target="_main">My favourite</a>
         </section>
 
 
@@ -172,4 +172,8 @@
 
 </body>
 </html>
-                
+                   
+
+
+
+
