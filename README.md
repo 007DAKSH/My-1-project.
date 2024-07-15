@@ -11,11 +11,10 @@
 <br>
 
 <body> 
-    <h1><b><i><u><header>
+    <h1><b><i><u>
+        <header>
         Hello, Everyone welcome to my portfolio. Here I am describing about myself.
-    
-    
-    </header>
+     </header>
         
 
     </u></i></h1></b>
@@ -25,17 +24,27 @@
     <br>
 
 
-
-   <p> <h1>Hi, My name is Daksh verma and i am 18 years old. As for know i am currently pursuing Bachelor of Technology,
+<main>
+   <p> <h1>
+    <section>
+        <u>
+    Hi, My name is Daksh verma and i am 18 years old. As for know i am currently pursuing Bachelor of Technology,
         From "Noida institute of engineering and Technology".
         
         Currently I am living in Delhi,the land of ancient and modern wonders and the city of dreams.
+    </section>
 </h1>
+
+
+</u>
         <br>
         <br>
         <br>
         <br>
         <b><h1>
+            <section>
+
+            
             Know coming to EDUCATION ---
 
             <table> <caption>CLASS 10</caption>
@@ -49,24 +58,31 @@
 
             
                 <tr>
-                    <td>Maths</td>
+                    <td>Maths -</td>
                     <td>95</td>
                 </tr>
 
                 <tr>
-                    <td>Science</td>
+                    <td>Science -</td>
                     <td>80</td>
                 </tr>
                 
                 <tr>
-                    <td>Sst</td>
+                    <td>Sst -</td>
                     <td>85</td>
                 </tr>
             </tbody>
+        </section>
+        
 
 
 
 
+
+
+
+
+           <section>
 
             <table>
                 <caption>
@@ -80,18 +96,18 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Physics</td>
+                        <td>Physics -</td>
                         <td>75</td>
                         
                     </tr>
 
                     <tr>
-                        <td>Chemistry</td>
+                        <td>Chemistry -</td>
                         <td>87</td>
                         
                     </tr>
                     <tr>
-                        <td>Maths</td>
+                        <td>Maths -</td>
                         <td>78</td>
                         
                     </tr>
@@ -99,8 +115,52 @@
                 </tbody>
 
             </table>
+        </section>
+            <br>
+            <br>
+            <br>
+            <br>
+            <section>
+
+            
+
+            Know let's come to Achievments.
+
+            <br>
+            <br>
+
+            <a href="/achievments.html">Achievments</a>
+        </section>
+            <br>
+            <br>
+            <br>
+        
+           <section>
+            Know let's come to hobbies.
+            As for my hobbies i really like to play and watch cricket. 
+            As since childhood i have a favourite cricketer in my heart and i'll show you the next slide.
+            Click on My favourite.
+
+
+            <br>
+            <br>
+            <br>
+            <a href="https://wallpaperaccess.com/full/7171510.jpg"target="_main">My favourite</a>
+        </section>
+
+
 
 </p></b></h1>
+
+
+</main>
+
+
+
+
+
+
+
 
 
 
@@ -112,3 +172,4 @@
 
 </body>
 </html>
+                
